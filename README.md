@@ -8,6 +8,7 @@
 ***
 In this application, which only works in console, you can calculate how long it took/would take to complete a given distance and pace, or what the average race pace would be, knowing how long it took/would take and the distance, or what is the distance, knowing the pace and the time it took/would take to complete it. In addition to this functionality, automatically calculates approximately the pace and times for different distances.
 
+<img src="RunningCalculator.png" alt="calculator">
 
 ## Technology
 ***
